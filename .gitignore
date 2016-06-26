@@ -1,0 +1,4 @@
+﻿*.sln
+.vs
+/pulse.cs-5.me.sln
+*.config
